@@ -48,12 +48,11 @@ The designs were created to the following widths:
 
   <!-- Thank you state start -->
 
-  You selected <!-- Add rating here --> out of 5
+   <!-- Add rating here --> 
 
-  Thank you!
+  
 
-  We appreciate you taking the time to give a rating. If you ever need more support, 
-  don’t hesitate to get in touch!
+  
 
   <!-- Thank you state end -->
 
