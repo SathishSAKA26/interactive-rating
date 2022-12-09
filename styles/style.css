@@ -51,7 +51,7 @@ li {
 }
 
 /* project start */
-.main-card {
+.main-card1 {
   width: 80%;
   background-color: var(--clr-dark-blue);
   border-radius: 20px;
@@ -103,7 +103,7 @@ li {
   border: none;
   width: 20px;
   height: 20px;
-  padding: 1.2rem;
+  padding: 20px;
 
   cursor: pointer;
 }
@@ -124,6 +124,8 @@ li {
   border: none;
   color: var(--clr-white);
   padding: 7px 5.4rem;
+
+  cursor: pointer;
 }
 
 .tag {
@@ -132,6 +134,13 @@ li {
 /* end the first page */
 
 /* start the second page */
+
+.main-card2 {
+  width: 80%;
+  background-color: var(--clr-dark-blue);
+  border-radius: 20px;
+  padding: 2rem;
+}
 
 .img-container {
   width: 60%;
@@ -164,4 +173,21 @@ li {
 .page-title {
   color: var(--clr-medium-grey);
 }
+.hidden{
+  display: none;
+}
 /* second end */
+
+@media screen and (min-width: 768px) {
+  .main-card1 {
+    width: 30%;
+  }
+
+  .main-card2{
+    width: 30%;
+  }
+
+  .btn-submit {
+    padding: 1rem auto;
+  }
+}
