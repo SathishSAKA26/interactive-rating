@@ -128,7 +128,7 @@ li {
   cursor: pointer;
 }
 
-.rating{
+.rating {
   width: 100%;
   display: flex;
   align-items: center;
@@ -136,7 +136,7 @@ li {
   padding-top: 1rem;
 }
 
-.btn-rating{
+.btn-rating {
   font-size: 1.5rem;
   background-color: var(--clr-orange);
   border-radius: 20px;
@@ -192,7 +192,7 @@ li {
 .page-title {
   color: var(--clr-medium-grey);
 }
-.hidden{
+.hidden {
   display: none;
 }
 /* second end */
@@ -202,7 +202,7 @@ li {
     width: 30%;
   }
 
-  .main-card2{
+  .main-card2 {
     width: 30%;
   }
 
